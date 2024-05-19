@@ -13,7 +13,7 @@ export default function App() {
     <div>
       <BrowserRouter basename="/github-test">
         <Routes>
-          <Route exacth path="/" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route path="/team" element={<TeamPage />} />
         </Routes>
       </BrowserRouter>
