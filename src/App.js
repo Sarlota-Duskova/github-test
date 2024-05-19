@@ -9,6 +9,7 @@ import Home from './pages/Home';
 import TeamPage from './pages/TeamPage';
 import Pokus from './pages/Pokus';
 //basename="/github-test"
+//"homepage": "https://sarlota-duskova.github.io/github-test",
 export default function App() {
 
   return (
